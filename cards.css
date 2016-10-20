@@ -1,0 +1,7 @@
+.card {
+	height: 300px;
+	width: 200px;
+	border: 3px dotted red;
+	float: left;
+	background-color: mintcream;
+}
